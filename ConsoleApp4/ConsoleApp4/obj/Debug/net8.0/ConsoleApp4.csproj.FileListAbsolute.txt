@@ -1,0 +1,15 @@
+D:\c# tasks\C--tasks\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.exe
+D:\c# tasks\C--tasks\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.deps.json
+D:\c# tasks\C--tasks\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.runtimeconfig.json
+D:\c# tasks\C--tasks\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.dll
+D:\c# tasks\C--tasks\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.pdb
+D:\c# tasks\C--tasks\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# tasks\C--tasks\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfoInputs.cache
+D:\c# tasks\C--tasks\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfo.cs
+D:\c# tasks\C--tasks\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\c# tasks\C--tasks\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.sourcelink.json
+D:\c# tasks\C--tasks\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.dll
+D:\c# tasks\C--tasks\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\refint\ConsoleApp4.dll
+D:\c# tasks\C--tasks\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.pdb
+D:\c# tasks\C--tasks\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.genruntimeconfig.cache
+D:\c# tasks\C--tasks\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ref\ConsoleApp4.dll
